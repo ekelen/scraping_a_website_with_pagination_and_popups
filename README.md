@@ -19,6 +19,8 @@ Step 4 – Once it’s on an individual therapist’s page such as this one http
 - Types of Therapy 
 - Age
 
+Read more on [medium](https://medium.com/@leogachimu/how-to-scrape-a-website-with-pagination-and-popups-680642a5d5b2) 
+
 # Contributors
 Leonard Gachimu
 
